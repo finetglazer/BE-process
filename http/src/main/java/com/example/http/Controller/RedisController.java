@@ -1,6 +1,6 @@
 package com.example.http.Controller;
 
-import DTO.RedisDTO;
+import com.example.http.Model.RedisDTO;
 import com.example.http.Service.BaseRedisService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
