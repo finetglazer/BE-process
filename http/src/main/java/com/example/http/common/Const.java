@@ -1,7 +1,6 @@
 package com.example.http.common;
 
-import org.jetbrains.annotations.Contract;
-import org.jetbrains.annotations.NotNull;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
